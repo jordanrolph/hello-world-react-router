@@ -1,0 +1,11 @@
+.navbar {
+    background-color: bisque;
+}
+
+.navbar * {
+    padding-right: 1rem;
+}
+
+.navbar .active {
+    color: red;
+}
